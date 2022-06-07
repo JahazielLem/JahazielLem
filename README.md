@@ -1,5 +1,12 @@
-### Hi there 👋
+# Que tal, soy Kevin
+Este es mi perfil de Github aqui subo mis repositorios personales y privados de los trabajos que realizo como freelance.
+Soy una persona que le gusta nuevos retos y no tengo miedo de exporar nuevas cosas, la mayor parte de mi tiempo libre me la paso desarrollando pequeños proyectos y aprendiendo nuevas tecnologías.
+## Proceso laborar
+Durante mi vida laborarl he estado en empresas como técnico de básculas, donde he aprendido a tratar con clientes, resolución de problemas y organización.
+En mi último trabajo empeze a realizar automatización e integración de sistemas de peso con lenguaje Lua, en paralelo me encontraba realizado trabajos de páginas web, aplicaciones personalizadas para clientes e integración de sistemas.
+Actualmente trabajo en una empresa llamada Paradoxalabs, en ella me encuentro como Full Stack Development, desarrollando sistemas con tecnologías como Flask y Javascript, también continuo desarrollando el software pero los sistemas de pesaje.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahazielLem)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JahazielLem/JahazielLem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
